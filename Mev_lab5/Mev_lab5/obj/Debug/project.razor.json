@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\gmadr\\source\\repos\\Mev_lab5\\Mev_lab5\\Mev_lab5.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
